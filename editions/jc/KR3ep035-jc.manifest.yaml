@@ -1,0 +1,310 @@
+canonical_identifier: bkk:krp/KR3ep035/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep035/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 掃葉莊醫案
+  identifiers:
+    krp: KR3ep035
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep035.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ep035_001-jc.yaml, hash: 'sha256:220628dd9286890562df88a6a20d22f33fe3cf7b4cb6df3263a1ea9c4b09fc4d'}
+  - {seq: 2, filename: KR3ep035_002-jc.yaml, hash: 'sha256:6e7ec379fc380a450d5d4a860f1e00744fd3a038cabe96d791710d94443d29a0'}
+  - {seq: 3, filename: KR3ep035_003-jc.yaml, hash: 'sha256:bab706a50a17f003a59de111812dc42e91ea7e37030fb2a1b82eb394fbcfca32'}
+  - {seq: 4, filename: KR3ep035_004-jc.yaml, hash: 'sha256:2abff3785e0cc8c4c4bbffc692d89d9a3a3d96290d90bc3965abdb19d20d0c19'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ep035_001-jc.markers.yaml, hash: 'sha256:841ffa572d1f9d8297c4a7110ca7d173b559fc19a206a3e98ad5a03dc39bd0a4'}
+  - {seq: 2, role: markers, filename: assets/KR3ep035_002-jc.markers.yaml, hash: 'sha256:0a1f8bf432dd726b5385f1c7de1684df2a5af1c33458526a46b16e05d38fce53'}
+  - {seq: 3, role: markers, filename: assets/KR3ep035_003-jc.markers.yaml, hash: 'sha256:00458335ef3ec9dc2cfd13b76a6c8c3b60f58248813b1d81ad140e61e27c978d'}
+  - {seq: 4, role: markers, filename: assets/KR3ep035_004-jc.markers.yaml, hash: 'sha256:3a2075e425d21f608ba67251832e89f9e599638525e9295aa3c4d7114a23da08'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ep035_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 12228
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep035_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 7604
+  label: 虛勞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep035_jc_001-d2d3
+    span:
+    - body
+    - 7604
+    - 9850
+  label: 中風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep035_jc_001-d2d4
+    span:
+    - body
+    - 9850
+    - 10833
+  label: 陰虛陽逆
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep035_jc_001-d2d5
+    span:
+    - body
+    - 10833
+    - 11991
+  label: 勞倦陽虛寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep035_jc_001-d2d6
+    span:
+    - body
+    - 11991
+    - 12228
+  label: 郁
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 10664
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 1959
+  label: 痢疾泄瀉便血
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3d3
+    span:
+    - body
+    - 1959
+    - 2085
+  label: 汗
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3d4
+    span:
+    - body
+    - 2085
+    - 2201
+  label: 心悸狂癇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3d5
+    span:
+    - body
+    - 2201
+    - 3839
+  label: 痞脹便秘
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3d6
+    span:
+    - body
+    - 3839
+    - 5437
+  label: 痰飲喘咳水氣腫脹
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3d7
+    span:
+    - body
+    - 5437
+    - 8383
+  label: 脾胃
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3.d7d86
+    span:
+    - body
+    - 6548
+    - 8383
+  label: 脘脅腹中諸痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep035_jc_002-d3d8
+    span:
+    - body
+    - 8383
+    - 10664
+  label: 氣痹噎膈關格呃逆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep035_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 5461
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep035_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 2007
+  label: 瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep035_jc_003-d4d3
+    span:
+    - body
+    - 2007
+    - 3387
+  label: 夏暑濕熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep035_jc_003-d4d4
+    span:
+    - body
+    - 3387
+    - 5205
+  label: 春溫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep035_jc_003-d4d5
+    span:
+    - body
+    - 5205
+    - 5461
+  label: 痘疹幼科雜治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep035_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8478
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep035_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 1537
+  label: 遺精淋濁尿血
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep035_jc_004-d5d3
+    span:
+    - body
+    - 1537
+    - 1921
+  label: 氣鬱發黃
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep035_jc_004-d5d4
+    span:
+    - body
+    - 1921
+    - 2341
+  label: 痿痹
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep035_jc_004-d5d5
+    span:
+    - body
+    - 2341
+    - 2557
+  label: 癰瘍痔漏
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep035_jc_004-d5d6
+    span:
+    - body
+    - 2557
+    - 3470
+  label: 疝
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep035_jc_004-d5d7
+    span:
+    - body
+    - 3470
+    - 8147
+  label: 經產淋帶女科雜治
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ep035_jc_004-d5d8
+    span:
+    - body
+    - 8147
+    - 8478
+  label: 康方伯傳海上仙方
+  type: section
+  level: 2
+hash: sha256:ce27f1ad9633df85769e160cb34d0975c30e638eebafa4d00dfdbe2f1eae4d65
